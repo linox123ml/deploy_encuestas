@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,a as o}from"./index-2d42e2a7.js";const r={};function c(n,a){return t(),o("h1",null,"view edit")}const f=e(r,[["render",c]]);export{f as default};
